@@ -8,5 +8,4 @@ minimal_mistakes_skin: "sunrise"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
-
-show_feed_icon: false
+  - jemoji
