@@ -1,13 +1,8 @@
 title: Onderhaltig
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Das isch mini siite wome chann gseeh, was für cooli konzert ich go luege gang
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
+description: >-
+  IN bearbeitig
+baseurl: "" 
+url: "onderhaltig.romanweber.ch" 
 theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-feed
-
-
+minimal_mistakes_skin: "sunrise"
+show_feed_icon: false
