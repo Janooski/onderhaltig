@@ -1,13 +1,13 @@
 ---
-layout: home
-author_profile: true
+layout: splash
+classes: wide
 ---
 
 # De Roman mag Onderhaltig
 
 Hoopp, ich gang gern a Konzert, Comedy gigs und au eifach suss Kultur go luege. Onderhaltig ebe. Wills amel chli schwierig isch zum wüsse isch wer will wo mitchoo, chönnder do jetzt amel selber go luege :satisfied:.
 
-## Kommendi Sache
+# Kommendi Sache
 
 | **Datum**| **Ziit** | **Artist**| **Genre**| **Ort**|
 |------------|------------|---------|------------|------------|
@@ -26,6 +26,6 @@ Hoopp, ich gang gern a Konzert, Comedy gigs und au eifach suss Kultur go luege. 
 |27. September 2026|19:00 (glaubi)|Olaf Schubert|Comedy|Gar nöd sicher|
 |13. November 2026|20:00|Felix Lobrecht|Comedy|Hallestadion Züri|
 
-## Das hesch scho verpasst
+# Das hesch scho verpasst
 
 Praktisch alli Konzert woni gseeh hani, sind of Concert Archives iitrait. Wenns also öpper interessiert wasi scho gseeh han, chönnder gern emol mis [Profil agügsle](https://www.concertarchives.org/roman-s-music-archive).
