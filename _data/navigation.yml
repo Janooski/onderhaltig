@@ -1,6 +1,8 @@
 main:
   - title: Home
     url: /
+  - title: "Ort"
+    url: /venues/
   - title: "Concert archive"
     url: https://www.concertarchives.org/roman-s-music-archive
     target: _blank

@@ -5,9 +5,11 @@ description: >-
 baseurl: "" 
 url: "onderhaltig.romanweber.ch" 
 copyright_url: "https://buecherspatz.buchkatalog.ch/polifon-pervers-9783038531494"
+
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "sunrise"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
   - jemoji
+include: ["_pages"]
