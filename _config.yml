@@ -3,9 +3,8 @@ description: >-
 
   De Roman mag Onderhaltig. 
 baseurl: "" 
-url: "onderhaltig.romanweber.ch" 
+url: "https://onderhaltig.romanweber.ch" 
 copyright_url: "https://buecherspatz.buchkatalog.ch/polifon-pervers-9783038531494"
-
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "sunrise"
 plugins:
