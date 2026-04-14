@@ -13,7 +13,6 @@ Hoopp, ich gang gern a Konzert, Comedy gigs und au eifach suss Kultur go luege. 
 
 | **Datum**| **Ziit** | **Artist**| **Genre**| **Ort**|**Extra Billet?**|
 |------------|------------|---------|------------|------------|---------|
-|10. April 2026|20:00|Kaffkiez|Düütsche Indie|Halle 622, Zürich||
 |24. April 2026|20:00|Avaion|DJ|Irgendwo in Züri||
 |28. April 2026|20:00|[LEAP](/leap)|Rock, Punk|Grabehalle, St.Galle||
 |29 & 30. Mai 2026|All day|Campus Festival|Festival|Konstanz DE|Fahrt öpper?|
@@ -36,6 +35,7 @@ Stuff wo ich gseeh han, woni no am überlege bin ob ich das go luege söll. Fall
 |3. April 2026|19:00|Jule X|Schwiizrap|Komplex 457|Goot safe ab, chunnt aber au am OASG :thinking:|
 |19.-23 August 2026|All day|Openair Gampuu|Festival|Gampel, Wallis|Isch no nöd ganz fix, tendiere aber stark dezu zgooh|
 |2. September 2026|20:00|Kiko|Comedy|Kinotheater Madlen|No nöd viel gseeh, chönnt aber cool sii|
+|27. September 2026|20:00|AnnenMayKantereit|Indie|Hallestation Züri|Ich mein, warum nöd? [Tickets](https://www.annenmaykantereit.com/dates/annenmaykantereit-dates-2792026-ch-z-4--54-.html)|
 |29. November 2026|20:00|Chapo102|Düütsche Indie|Dynamo, Züri||
 
 ## Das hesch scho verpasst
@@ -45,4 +45,3 @@ Praktisch alli Konzert woni gseeh hani, sind of Concert Archives iitrait. Wenns 
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
-
