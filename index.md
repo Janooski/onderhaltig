@@ -13,14 +13,10 @@ Hoopp, ich gang gern a Konzert, Comedy gigs und au eifach suss Kultur go luege. 
 
 |**Datum**|**Ziit** |**Artist**|**Genre**|**Ort**|**Extra Billet?**|
 |------------|------------|---------|------------|------------|---------|
-|17. Juni|20:00|Jimmy Carr|Comedy|Komplex||
-|16. Juni|20:00|Charles Nguela|Comedy|Kinotheater Madlen|Mobiliar Event|
-|20. Juni 2026|20:00|Die Toten Hosen|Punkaltmeister|Letzi, Züri||
-|24. Juni 2026|20:00|Voilà|Punk oder Pop, not sure|Komplex 457|Het no, mitchoo|
-|25-28 Juni 2026|all day| OASG| Festival| Sittertobel|:tent:-platz friends needed|
 |11. Juli 2026|je ne sais pas|Vulfpeck & Fearless Flyers|Fuuuunk| Vienne, Frankriich||
 |30. Juli - 01. August 2026|All day|Szene Opernair|Festival|Lustenau||
 |19.-23 August 2026|All day|Openair Gampuu|Festival|Gampel, Wallis|Isch no nöd ganz fix, tendiere aber stark dezu zgooh|
+|17. September 2026|19:00|Project ET|Rap mit Haltig|Exil, Züri|Han eis extra|
 |27. September 2026|19:00 (glaubi)|Olaf Schubert|Comedy|Gar nöd sicher||
 |13. November 2026|20:00|Felix Lobrecht|Comedy|Hallestadion Züri|Ja, hett no zwei extra|
 |29. November 2026|20:00|Chapo102|Düütsche Indie|Dynamo, Züri||
