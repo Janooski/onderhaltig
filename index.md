@@ -34,6 +34,7 @@ Stuff wo ich gseeh han, woni no am überlege bin ob ich das go luege söll. Fall
 |9. Dezember 2026|20:00|Cooryy Wooong|Fuunk|Komplex 457|Named after the Vulfpeck Song [Cory Wong](https://open.spotify.com/track/5G8L62noXXihEkN2P2RiPW?si=e72b8179c0334619)|
 |17. April 2027|20:00|Dr.Leon WIndscheid|Psychologie|Tonhalle St.Galle|Vom Podcast Betreutes Fühlen oder In extremen Köpfen|
 |14. November 2027|20:00|Özcan Cosar|Comedy|Hallestadion (oha :astonished:)|[Hamam Video](https://youtu.be/t8kLR8Cghvo?si=PW7z90w5U4vp7O3g)|
+|22. November 2026|20:00|Kneecap|Rap|X-TRA, Züri||
 
 
 ## Das hesch scho verpasst
