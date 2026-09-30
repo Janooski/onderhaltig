@@ -1,10 +1,10 @@
-name: Notify friends
+name: email-to-friends
 
 on:
   workflow_dispatch:
   push:
     tags:
-      - "notify-*"
+      - "email-*"
 
 permissions:
   contents: read
@@ -13,6 +13,9 @@ jobs:
   email:
     runs-on: ubuntu-latest
     steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
       - name: Send notification
         env:
           SMTP_HOST: smtp.protonmail.ch
@@ -27,17 +30,16 @@ jobs:
           import os
           import smtplib
           from email.message import EmailMessage
+          from pathlib import Path
 
           recipients = json.loads(os.environ["RECIPIENTS"])
 
           message = EmailMessage()
           message["Subject"] = "Onderhaltig wurde aktualisiert"
           message["From"] = os.environ["SMTP_USERNAME"]
-          message["To"] = "Undisclosed recipients:;"
+          message["To"] = os.environ["RECIPIENTS"]
           message.set_content(
-              f"Es git öppis Neus:\n\n"
-              f"https://onderhaltig.example/\n\n"
-              f"Version: {os.environ['TAG']}"
+              Path(".github/workflows/email-body.md").read_text(encoding="utf-8")
           )
 
           with smtplib.SMTP(
