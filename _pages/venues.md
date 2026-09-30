@@ -13,3 +13,4 @@ Grossi Venues sind nöd immer besser. Ganz im Gegeteil, die chliine Venues sind 
 - [Casinotheater](https://www.casinotheater.ch/) Winti
 - [Salzhuus](https://www.salzhaus.ch/de/programm), Winti (söll guet gsii, bis jetzt no nöd gschafft)
 - [Komplex 457](https://komplex-457.ch/), Züri (scho chli grösser)
+- [Exil](https://exil.club/), Züri
