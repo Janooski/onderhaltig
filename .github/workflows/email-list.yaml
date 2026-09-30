@@ -1,0 +1,55 @@
+name: email-to-friends
+
+on:
+  workflow_dispatch:
+  push:
+    tags:
+      - "email-*"
+
+permissions:
+  contents: read
+
+jobs:
+  email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Send notification
+        env:
+          SMTP_HOST: smtp.protonmail.ch
+          SMTP_PORT: "587"
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_TOKEN: ${{ secrets.SMTP_TOKEN }}
+          RECIPIENTS: ${{ vars.EMAIL_RECIPIENTS_JSON }}
+          TAG: ${{ github.ref_name }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import smtplib
+          from email.message import EmailMessage
+          from pathlib import Path
+
+          recipients = json.loads(os.environ["RECIPIENTS"])
+
+          message = EmailMessage()
+          message["Subject"] = "Endli wiedermol Onderhaltig!"
+          message["From"] = os.environ["SMTP_USERNAME"]
+          message["To"] = "Roman's Onderhaltigsfriends"
+          message.set_content(
+              Path(".github/workflows/email-body.md").read_text(encoding="utf-8")
+          )
+
+          with smtplib.SMTP(
+              os.environ["SMTP_HOST"],
+              int(os.environ["SMTP_PORT"]),
+          ) as smtp:
+              smtp.starttls()
+              smtp.login(
+                  os.environ["SMTP_USERNAME"],
+                  os.environ["SMTP_TOKEN"],
+              )
+              smtp.send_message(message, to_addrs=recipients)
+          PY
