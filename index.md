@@ -44,6 +44,10 @@ Praktisch alli Konzert woni gseeh hani, sind of Concert Archives iitrait. Wenns 
 - [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
 
+## Wilsch nüt me verpasse?
+
+Ich han jetzt d Möglichkeit zum E-Mails a mine Friends verschicke :satisfied:. Höör uuf, ich finds genauso toll wie du :nerd_face:. Kei Angst, ich werd eu nöd vollspame sondern nur ab und zue wenns wiedermol grossi Änderige geeh söll. Lemme know wennd au druuf wilsch!
+
 ## Gratis Tickets?
 
 Umständ hend ergeeh, das ich Konzertbillet kaufd han woni ez gliich nöd chann goo. I mein das het jo müesse passiere, bi all dene Hamsterchäuf :upside_down_face:. Pedestrians sind würkli cool, und das isch au ihre Abschiedstournee. Wennd Ziit hesch, schriib mir eifach churz.
