@@ -1,5 +1,7 @@
-Hallo Mini Liebe Fründe,
+Hallo mini liebe Onderhaltigsfründe,
 
-ich han wiedermol es paar Sache uf minere Siite iitrait, gang doch mol go luege: onderhaltig.romanweber.chhttps://onderhaltig.romanweber.ch/.
+Es isch jo scho cool wemmer e websiite het, wo anderi chönnd go noluege was mer so go luege goot. Aber weisch was no viel cooler isch, wenn mer en eigene E-Mail-Dienst iibaut, damit mer sine Kollege chann schicke sie sölled jetzt tamminomol wieder uf die Siite go luege obs öppis git wos wennd mitchoo.
 
-Pfiffige Grüsse, Roman
+Ich bin no bis Ende November i de Schwiiz und mue s meiste usehole. Han es paar Sache updated, gang doch mol go luege: https://onderhaltig.romanweber.ch/.
+
+Pfiffige Grüsse zu viel zu später Stunde, Roman

@@ -35,7 +35,7 @@ jobs:
           recipients = json.loads(os.environ["RECIPIENTS"])
 
           message = EmailMessage()
-          message["Subject"] = "Onderhaltig wurde aktualisiert"
+          message["Subject"] = "Endli wiedermol Onderhaltig!"
           message["From"] = os.environ["SMTP_USERNAME"]
           message["To"] = "Roman's Onderhaltigsfriends"
           message.set_content(
