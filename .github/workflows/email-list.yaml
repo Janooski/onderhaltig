@@ -18,7 +18,7 @@ jobs:
           SMTP_HOST: smtp.protonmail.ch
           SMTP_PORT: "587"
           SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
-          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_TOKEN: ${{ secrets.SMTP_TOKEN }}
           RECIPIENTS: ${{ vars.EMAIL_RECIPIENTS_JSON }}
           TAG: ${{ github.ref_name }}
         run: |
@@ -47,7 +47,7 @@ jobs:
               smtp.starttls()
               smtp.login(
                   os.environ["SMTP_USERNAME"],
-                  os.environ["SMTP_PASSWORD"],
+                  os.environ["SMTP_TOKEN"],
               )
               smtp.send_message(message, to_addrs=recipients)
           PY
