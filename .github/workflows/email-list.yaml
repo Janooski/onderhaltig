@@ -1,6 +1,7 @@
 name: Notify friends
 
 on:
+  workflow_dispatch:
   push:
     tags:
       - "notify-*"
@@ -18,7 +19,7 @@ jobs:
           SMTP_PORT: "587"
           SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-          RECIPIENTS: ${{ env.EMAIL_RECIPIENTS_JSON }}
+          RECIPIENTS: ${{ vars.EMAIL_RECIPIENTS_JSON }}
           TAG: ${{ github.ref_name }}
         run: |
           python3 - <<'PY'
