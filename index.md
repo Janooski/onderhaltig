@@ -13,7 +13,7 @@ Hoopp, ich gang gern a Konzert, Comedy gigs und au eifach suss Kultur go luege. 
 
 |**Datum**|**Ziit** |**Artist**|**Genre**|**Ort**|**Extra Billet?**|
 |------------|------------|---------|------------|------------|---------|
-|Bibiza|20:00|Bibiza|Rock|Conrad Sohm||
+|13. Oktober 2026|Bibiza|20:00|Bibiza|Rock|Conrad Sohm||
 |27. Oktober 2026|20:00|FKJ|New French House|Zürich||
 |13. November 2026|20:00|Felix Lobrecht|Comedy|Hallestadion Züri|Ja, aber scho vergeeh.|
 |28. November 2026|21:00|EDB|Sis Baby denk er macht Punk Rock|Grabehalle|Han no zwei extra, melde wer Luschd het.|
