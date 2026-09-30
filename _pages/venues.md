@@ -1,10 +1,7 @@
 ---
-permalink: /venues
 layout: single
+permalink: /venues
 ---
-
-
-# Beschdi Locations
 
 Grossi Venues sind nöd immer besser. Ganz im Gegeteil, die chliine Venues sind meistens cooler, günstiger und hend viel me Charme! Loohnt sich ab und zue chli go luege wer det spielt:
 
