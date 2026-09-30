@@ -1,0 +1,52 @@
+name: Notify friends
+
+on:
+  push:
+    tags:
+      - "notify-*"
+
+permissions:
+  contents: read
+
+jobs:
+  email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send notification
+        env:
+          SMTP_HOST: smtp.protonmail.ch
+          SMTP_PORT: "587"
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          RECIPIENTS: ${{ env.EMAIL_RECIPIENTS_JSON }}
+          TAG: ${{ github.ref_name }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import smtplib
+          from email.message import EmailMessage
+
+          recipients = json.loads(os.environ["RECIPIENTS"])
+
+          message = EmailMessage()
+          message["Subject"] = "Onderhaltig wurde aktualisiert"
+          message["From"] = os.environ["SMTP_USERNAME"]
+          message["To"] = "Undisclosed recipients:;"
+          message.set_content(
+              f"Es git öppis Neus:\n\n"
+              f"https://onderhaltig.example/\n\n"
+              f"Version: {os.environ['TAG']}"
+          )
+
+          with smtplib.SMTP(
+              os.environ["SMTP_HOST"],
+              int(os.environ["SMTP_PORT"]),
+          ) as smtp:
+              smtp.starttls()
+              smtp.login(
+                  os.environ["SMTP_USERNAME"],
+                  os.environ["SMTP_PASSWORD"],
+              )
+              smtp.send_message(message, to_addrs=recipients)
+          PY
