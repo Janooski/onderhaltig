@@ -37,7 +37,7 @@ jobs:
           message = EmailMessage()
           message["Subject"] = "Onderhaltig wurde aktualisiert"
           message["From"] = os.environ["SMTP_USERNAME"]
-          message["To"] = os.environ["RECIPIENTS"]
+          message["To"] = "Roman's Onderhaltigsfriends"
           message.set_content(
               Path(".github/workflows/email-body.md").read_text(encoding="utf-8")
           )
