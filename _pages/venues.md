@@ -3,6 +3,8 @@ layout: single
 permalink: /venues
 ---
 
+# Venues
+
 Grossi Venues sind nöd immer besser. Ganz im Gegeteil, die chliine Venues sind meistens cooler, günstiger und hend viel me Charme! Loohnt sich ab und zue chli go luege wer det spielt:
 
 - [Conrad Sohm](https://www.conradsohm.com/), Dornbirn Östriich

@@ -55,5 +55,3 @@ Umständ hend ergeeh, das ich Konzertbillet kaufd han woni ez gliich nöd chann 
 |**Datum**|**Ziit** |**Artist**|**Genre**|**Ort**|**Extra Billet?**|
 |------------|------------|---------|------------|------------|---------|
 |4. Dezember 2026|20:00|Pedestrians|Reggae|Schüür Luzern|Zwei zum verschenke|
-
-tempp
