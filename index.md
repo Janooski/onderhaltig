@@ -13,11 +13,10 @@ Hoopp, ich gang gern a Konzert, Comedy gigs und au eifach suss Kultur go luege. 
 
 |**Datum**|**Ziit** |**Artist**|**Genre**|**Ort**|**Extra Billet?**|
 |------------|------------|---------|------------|------------|---------|
-|13. Oktober 2026|20:00|Bibiza|Rock|Conrad Sohm||
-|27. Oktober 2026|20:00|FKJ|New French House|Zürich||
 |13. November 2026|20:00|Felix Lobrecht|Comedy|Hallestadion Züri|Ja, aber scho vergeeh.|
 |28. November 2026|21:00|EDB|Sis Baby denk er macht Punk Rock|Grabehalle|Han no zwei extra, melde wer Luschd het.|
 |29. November 2026|20:00|Chapo102|Düütsche Indie|Dynamo, Züri|Sind scho e crew, han on es extra Ticket.|
+|12-14. Marzo 2027|Todo el dia|Festival||Santiago de Chile :chile:||
 |15. Oktober 2027|14:00|Peach Weber|Comedy|Hallestadion Züri|Han vor 10 Johr no es zweits kaufd.|
 
 ## Bini no am überlege
@@ -26,12 +25,13 @@ Stuff wo ich gseeh han, woni no am überlege bin ob ich das go luege söll. Fall
 
 | **Datum**| **Ziit** | **Artist**| **Genre**| **Ort**|**Meeh**|
 |------------|------------|---------|------------|------------|---------|
-|17. Oktober 2026|20:00|Ikan Hyu|Indie Rock|Salzhuus Winti||
 |30. Oktober 2025|20:00 (geraten)|Renato Kaiser|Comedy|Winterthur|Première vo sim neue Programm|
 |05. November 2026|20:00|Fischermätteli Hood Gang|Schwiizer Rap|Exil, Züri||
 |14. November 2026|20:00|MzumO|Rap|Gaswerk Winti||
+|19. November 2026|20:00|Drunken Masters|DJs, Trap|Exil|Bin selb nöd doo, aber die sind live sehr guet|
 |20. November 2026|20:00|Pedestrians|Reggae|Salzhuus Winti|Do spieleds wenni no i de Schwiiz bin.|
 |22. November 2026|20:00|Kneecap|Rap|X-TRA, Züri|Userverchauft :pensive:|
+|26. November 2026|20:00|Bellaire|Fuunky DJ|X-TRA, Züri|
 |2. Dezember 2026|20:00|Riana|Mundart-Pop|Albani Winti|Letschds Konzert vor Südamerika?|
 |17. April 2027|20:00|Dr.Leon WIndscheid|Psychologie|Tonhalle St.Galle|Vom Podcast Betreutes Fühlen oder In extremen Köpfen|
 |14. November 2027|20:00|Özcan Cosar|Comedy|Hallestadion (oha :astonished:)|[Hamam Video](https://youtu.be/t8kLR8Cghvo?si=PW7z90w5U4vp7O3g)|

@@ -1,7 +1,7 @@
-Hallo mini liebe Onderhaltigsfründe,
+Guten Morgen mini liebe Fründ:inne, 
 
-Es isch jo scho cool wemmer e websiite het, wo anderi chönnd go noluege was mer so go luege goot. Aber weisch was no viel cooler isch, wenn mer en eigene E-Mail-Dienst iibaut, damit mer sine Kollege chann schicke sie sölled jetzt tamminomol wieder uf die Siite go luege obs öppis git wos wennd mitchoo.
+es isch wiedermol viel zu spoot und ich sött scho lang go schloofe... Aber ich han wiedermol öppis entdeckt wo viel z guet isch zum nöd share. Nämli folgendes: https://exil.club/events/bellaire.
 
-Ich bin no bis Ende November i de Schwiiz und mue s meiste usehole. Han es paar Sache updated, gang doch mol go luege: https://onderhaltig.romanweber.ch/.
+Das isch sone mischig us DJ und Jazz und ich glaube das wird richtig abgoo. So Stuff hani amel während em Bachelorarbeit schriibe gloset, chunnt aber im Klub safe au tough! Usserdem flüüge ich sechs täg spööter uf Buenos Aires, es wär also s letschd mol Klub (oder wie mini Mama seité "uf de Tanz") bevor ich min Reaggeton-Hüftschwung  uuspacke.
 
-Pfiffige Grüsse zu viel zu später Stunde, Roman
+Buenas Noches, Roman
